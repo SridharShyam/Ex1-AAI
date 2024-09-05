@@ -1,8 +1,9 @@
-<H3> Name: SHYAM S </H3>
-<H3>Register No: 212223240156</H3>
-<H3> Experiment 1</H3>
-<H3>DATE:</H3>
+### Name: SHYAM S
+### Register No: 212223240156
+### Experiment 1
+### DATE:
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
+
 ## Aim :
     To create a bayesian Network for the given dataset in Python
 ## Algorithm:
